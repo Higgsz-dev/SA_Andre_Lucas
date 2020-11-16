@@ -1,0 +1,13 @@
+C:\Users\Andre\source\repos\Padaria_PaodoCeu\Padaria_PaodoCeu\bin\Debug\netcoreapp3.1\Padaria_PaodoCeu.exe
+C:\Users\Andre\source\repos\Padaria_PaodoCeu\Padaria_PaodoCeu\bin\Debug\netcoreapp3.1\Padaria_PaodoCeu.deps.json
+C:\Users\Andre\source\repos\Padaria_PaodoCeu\Padaria_PaodoCeu\bin\Debug\netcoreapp3.1\Padaria_PaodoCeu.runtimeconfig.json
+C:\Users\Andre\source\repos\Padaria_PaodoCeu\Padaria_PaodoCeu\bin\Debug\netcoreapp3.1\Padaria_PaodoCeu.runtimeconfig.dev.json
+C:\Users\Andre\source\repos\Padaria_PaodoCeu\Padaria_PaodoCeu\bin\Debug\netcoreapp3.1\Padaria_PaodoCeu.dll
+C:\Users\Andre\source\repos\Padaria_PaodoCeu\Padaria_PaodoCeu\bin\Debug\netcoreapp3.1\Padaria_PaodoCeu.pdb
+C:\Users\Andre\source\repos\Padaria_PaodoCeu\Padaria_PaodoCeu\obj\Debug\netcoreapp3.1\Padaria_PaodoCeu.csprojAssemblyReference.cache
+C:\Users\Andre\source\repos\Padaria_PaodoCeu\Padaria_PaodoCeu\obj\Debug\netcoreapp3.1\Padaria_PaodoCeu.AssemblyInfoInputs.cache
+C:\Users\Andre\source\repos\Padaria_PaodoCeu\Padaria_PaodoCeu\obj\Debug\netcoreapp3.1\Padaria_PaodoCeu.AssemblyInfo.cs
+C:\Users\Andre\source\repos\Padaria_PaodoCeu\Padaria_PaodoCeu\obj\Debug\netcoreapp3.1\Padaria_PaodoCeu.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\Padaria_PaodoCeu\Padaria_PaodoCeu\obj\Debug\netcoreapp3.1\Padaria_PaodoCeu.dll
+C:\Users\Andre\source\repos\Padaria_PaodoCeu\Padaria_PaodoCeu\obj\Debug\netcoreapp3.1\Padaria_PaodoCeu.pdb
+C:\Users\Andre\source\repos\Padaria_PaodoCeu\Padaria_PaodoCeu\obj\Debug\netcoreapp3.1\Padaria_PaodoCeu.genruntimeconfig.cache
